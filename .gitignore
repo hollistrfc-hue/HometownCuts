@@ -1,1 +1,5 @@
 images/hero-video.mp4
+
+# Local Netlify folder
+.netlify
+images/hero-video.mp4
